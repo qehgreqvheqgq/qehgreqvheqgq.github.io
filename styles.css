@@ -43,7 +43,7 @@ body {
     width: 100px;
     position: relative;
     top: 7px;
-    left: 5%;
+    left: 12%;
     height: 0 auto;
   }
   
@@ -156,10 +156,10 @@ body {
 }
 
 .himg {
-    width: 250px;
-    height: 200px;
+    width: 380px;
+    height: 300px;
     position: relative;
-    top: 300px;
+    top: 500px;
     right: 10%;
     text-wrap: wrap;
     text-align: center;
@@ -171,25 +171,30 @@ body {
     top: 100px;
     left: 150px;
     width: 1500px;
+    font-size: 25px;
 }
 h1{
     position: relative;
     left: 50%;
     top: 50px;
+    font-size: 25px;
     
 }
 .his2 {
-    width: 350px;
+    width: 450px;
     position: relative;
     left: 220px;
     top: 75px;
+    font-size: 25px;
+    max-height: 300px;
     
 }
 .his3 {
-    width: 525px;
+    width: 700px;
     position: relative;
     top: 170px;
     left: 25%;
+    font-size: 25px;
 }
     
 .i1 {
